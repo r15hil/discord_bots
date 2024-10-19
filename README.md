@@ -1,5 +1,8 @@
 # discord bots
 
+- Horoscope Bot: get your daily horoscope
+- [Stock Bot](stock_bot/README.md)
+
 ## **Setting Up a Discord Bot**
 
 1. [Access the Discord Developer Portal](#access-the-discord-developer-portal)
